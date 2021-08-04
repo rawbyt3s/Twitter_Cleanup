@@ -2,7 +2,7 @@
 A simple python script to clean up old tweets and favorites.
 
 
-Special thanks from @imathew. I got this from his blog. https://www.mathewinkson.com/2015/03/delete-old-tweets-selectively-using-python-and-tweepy
+Special thanks to @imathew. I got this from his blog. https://www.mathewinkson.com/2015/03/delete-old-tweets-selectively-using-python-and-tweepy
 
 I basically updated the print lines to be compatible with python3.
 
